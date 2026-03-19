@@ -12,7 +12,7 @@
 | Name | Role |
 |------|------|
 | Mansi Jangid    | Strategy, Research, Product Design |
-| [Name 2]   | Development                        |
+| Shivam Vishwakarma   | Development                        |
 | [Name 3]   | UI/UX Design                       |
 
 **Solution:** RoziRaksha  
